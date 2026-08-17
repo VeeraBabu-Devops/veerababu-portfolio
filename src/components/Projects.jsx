@@ -1,7 +1,7 @@
 const Projects = () => {
   const projects = [
     {
-      title: "AWS E-Commerce Platform",
+      title: "Cloud-Native Microservices",
       description:
         "A cloud-based e-commerce platform designed with scalable AWS services, secure authentication, API integration, containerized workloads, and managed databases.",
       technologies: [
@@ -22,7 +22,7 @@ const Projects = () => {
     },
 
     {
-      title: "LMS Deployment on AWS",
+      title: "Three-Tier Web Application Deployment",
       description:
         "Designed and deployed a three-tier LMS application on AWS using EC2, Docker, React, Node.js, and PostgreSQL, with separate application layers and Linux-based deployment.",
       technologies: [
